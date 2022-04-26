@@ -6,7 +6,7 @@ Register an API key at https://nomics.com
 
 # Live Preview Image
 
-[](/images/preview.gif)
+![](/images/preview.gif)
 
 ## Usage
 
