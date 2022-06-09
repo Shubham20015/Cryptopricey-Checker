@@ -4,9 +4,9 @@ Command line interface written in Node.js to check cryptocurrency prices
 
 Register an API key at https://nomics.com
 
-# Live Preview Image
+<!-- # Live Preview Image
 
-![](/images/preview.gif)
+![](/images/preview.gif) -->
 
 ## Usage
 
